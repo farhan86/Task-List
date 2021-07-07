@@ -1,0 +1,52 @@
+.card {
+    border-radius: 15px;
+    background-color: transparent;
+    padding-bottom: 5%;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-weight: 100;
+}
+
+.header{
+    letter-spacing: 1.5ch;
+    font-weight: 100;
+}
+
+#task-form{
+    padding-bottom: 2%;
+}
+
+.btn, .btn-large, .btn-small{
+    border-radius: 5px;
+    background-color: #27ae60;
+}
+
+#filterField{
+    margin-top: 3.8rem;
+}
+
+#task-title{
+    color: #227093;
+    letter-spacing: 6px;
+    font-weight: 500;
+    padding-bottom: 2%;
+}
+
+.collection .collection-item{
+    padding: 2%;
+}
+
+#clearButton{
+    padding-top: 2%;
+}
+
+.collection{
+    margin-bottom: 2rem;
+    border: none;
+}
+
+#removeIcon{
+    color: red;
+}
+
